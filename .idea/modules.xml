@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_clone_detector.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_clone_detector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_sourcereCC.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_sourcereCC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala_sourcereCC-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala_sourcereCC-build.iml" />
     </modules>
   </component>
