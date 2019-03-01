@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scala_sourcereCC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scala_sourcereCC_jar</output-path>
+    <root id="archive" name="scala_sourcereCC.jar">
+      <element id="module-output" name="scala_sourcereCC" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/common_2.12/jars/common_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.lihaoyi/fastparse-utils_2.12/jars/fastparse-utils_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/quasiquotes_2.12/jars/quasiquotes_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/tokens_2.12/jars/tokens_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.thesamet.scalapb/lenses_2.12/jars/lenses_2.12-0.8.0-RC1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.lihaoyi/sourcecode_2.12/bundles/sourcecode_2.12-0.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/inputs_2.12/jars/inputs_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/fastparse_2.12/jars/fastparse_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/scalameta_2.12/jars/scalameta_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.lihaoyi/fastparse_2.12/jars/fastparse_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/io_2.12/jars/io_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/fastparse-utils_2.12/jars/fastparse-utils_2.12-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.google.protobuf/protobuf-java/bundles/protobuf-java-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/trees_2.12/jars/trees_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/transversers_2.12/jars/transversers_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/parsers_2.12/jars/parsers_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/semanticdb_2.12/jars/semanticdb_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/dialects_2.12/jars/dialects_2.12-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.thesamet.scalapb/scalapb-runtime_2.12/jars/scalapb-runtime_2.12-0.8.0-RC1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/tokenizers_2.12/jars/tokenizers_2.12-4.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
