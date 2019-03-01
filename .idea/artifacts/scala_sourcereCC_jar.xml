@@ -2,7 +2,7 @@
   <artifact type="jar" name="scala_sourcereCC:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/scala_sourcereCC_jar</output-path>
     <root id="archive" name="scala_sourcereCC.jar">
-      <element id="module-output" name="scala_sourcereCC" />
+      <element id="module-output" name="scala_clone_detector" />
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/common_2.12/jars/common_2.12-4.1.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/com.lihaoyi/fastparse-utils_2.12/jars/fastparse-utils_2.12-1.0.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scalameta/quasiquotes_2.12/jars/quasiquotes_2.12-4.1.0.jar" path-in-jar="/" />
